@@ -1,7 +1,8 @@
 # Realtime Face Detection Using Tensorflow.js and Face_Api.js
 
 **Demo:**
-https://github.com/rubencg195/face_detection_tensorflowjs_face_api
+
+https://rubencg195.github.io/pages/face_detection/
 
 **Images:**
 
